@@ -225,6 +225,56 @@ _:-ms-input-placeholder, :root .demo-graph {
   height: 256px;
   background: #3E4EB8;
 }
+
+.demo-card-event.mdl-card:nth-child(1){
+  background: #ae8dbc;
+}
+
+.demo-card-event.mdl-card:nth-child(2){
+  background: #e3b3cd;
+}
+
+.demo-card-event.mdl-card:nth-child(3){
+  background: #6490cd;
+}
+
+.demo-card-event.mdl-card:nth-child(4){
+  background: #c8d85b;
+}
+
+.demo-card-event.mdl-card:nth-child(5){
+  background: #82c0cd;
+}
+
+.demo-card-event.mdl-card:nth-child(6){
+  background: #afc7a7;
+}
+
+.demo-card-event.mdl-card:nth-child(7){
+  background: #834e62;
+}
+
+.demo-card-event.mdl-card:nth-child(8){
+  background: #6a9176;
+}
+
+.demo-card-event.mdl-card:nth-child(9){
+  background: #7f7eb8;
+}
+
+.demo-card-event.mdl-card:nth-child(10){
+  background: #a04e90;
+}
+
+.demo-card-event.mdl-card:nth-child(11){
+  background: #dbbc86;
+}
+
+.demo-card-event.mdl-card:nth-child(12){
+  background: #c4c829;
+}
+
+
 .demo-card-event > .mdl-card__actions {
   border-color: rgba(255, 255, 255, 0.2);
 }
@@ -248,4 +298,8 @@ _:-ms-input-placeholder, :root .demo-graph {
 .demo-card-event > .mdl-card__actions,
 .demo-card-event > .mdl-card__actions > .mdl-button {
   color: #3E4EB8;
+}
+
+.mdl-button{
+  align-items: left
 }

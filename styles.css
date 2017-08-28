@@ -300,6 +300,12 @@ _:-ms-input-placeholder, :root .demo-graph {
   color: #3E4EB8;
 }
 
+#button {
+  margin-bottom: 50px;
+  margin-top: 10px;
+  margin-left: 180px;
+}
+
 button.btn {
   font-family: Arial;
   color: #ffffff;

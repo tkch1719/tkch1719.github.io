@@ -306,21 +306,18 @@ _:-ms-input-placeholder, :root .demo-graph {
 
 .grave1 {
   background-image: url(images/grave1.png);
-  background-size: cover;
   background-repeat: no-repeat;
   height: 360px;
 }
 
 .grave2 {
   background-image: url(images/grave2.png);
-  background-size: cover;
   background-repeat: no-repeat;
   height: 360px;
 }
 
 .grave3 {
   background-image: url(images/grave3.png);
-  background-size: cover;
   background-repeat: no-repeat;
   height: 360px;
 }

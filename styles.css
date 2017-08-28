@@ -321,3 +321,7 @@ _:-ms-input-placeholder, :root .demo-graph {
   background-repeat: no-repeat;
   height: 360px;
 }
+
+.custom-card {
+  padding-left: 15px;
+}

@@ -307,19 +307,19 @@ _:-ms-input-placeholder, :root .demo-graph {
 .grave1 {
   background-image: url(images/grave1.png);
   background-repeat: no-repeat;
-  height: 360px;
+  height: 340px;
 }
 
 .grave2 {
   background-image: url(images/grave2.png);
   background-repeat: no-repeat;
-  height: 360px;
+  height: 320px;
 }
 
 .grave3 {
   background-image: url(images/grave3.png);
   background-repeat: no-repeat;
-  height: 720px;
+  height: 650px;
 }
 
 .custom-card {

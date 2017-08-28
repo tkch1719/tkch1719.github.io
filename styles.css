@@ -300,8 +300,18 @@ _:-ms-input-placeholder, :root .demo-graph {
   color: #3E4EB8;
 }
 
-.mdl-button{
-  align-items: left
+button.btn {
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #3498db;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+button.btn:hover {
+  background: #3cb0fd;
+  text-decoration: none;
 }
 
 .grave1 {

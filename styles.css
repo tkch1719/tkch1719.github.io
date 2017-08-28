@@ -303,3 +303,10 @@ _:-ms-input-placeholder, :root .demo-graph {
 .mdl-button{
   align-items: left
 }
+
+.grave1 {
+  background-image: url(images/grave1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
